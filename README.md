@@ -60,7 +60,7 @@ Pada Project ini menggunakan Work Monitoring System with Drowsiness Detection ya
 
 # Daftar Isi
 - [Diagram Alur](#Diagram-Alur)
-- [Output](HASIL-TES/)
+- [Output](HASIL-TES.md)
 - [Program](PROGRAM/)
 
 # Diagram Alur
