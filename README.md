@@ -1,12 +1,8 @@
-# Work Monitoring System with Drowsiness Detection
-<div align="center">
-  <img src="./assets/latar.jpg" alt="latar" width="600px"/>
-</div>
+# Sistem Pemilihan dan Pemantauan Ngantuk untuk Optimalisasi Industri pada Jam Kerja
 
-## Sistem Pemilihan dan Pemantauan Ngantuk untuk Optimalisasi Industri pada Jam Kerja
 <div align="justify">
 
-Work Monitoring System with Drowsiness Detection adalah aplikasi berbasis Python yang menggabungkan face detection dan drowsiness detection menggunakan OpenCV serta MediaPipe untuk memantau kondisi pengguna selama bekerja. Sistem ini secara otomatis mengatur siklus waktu kerja dan istirahat, menampilkan status real-time melalui GUI interaktif (Tkinter),  agar pengguna tetap produktif dan fokus dalam lingkungan kerja yang sehat.
+Pada Project ini menggunakan Work Monitoring System with Drowsiness Detection yang pengaaplikasiannya berbasis Python yang menggabungkan face detection dan drowsiness detection menggunakan OpenCV serta MediaPipe untuk memantau kondisi pengguna selama bekerja. Sistem ini secara otomatis mengatur siklus waktu kerja dan istirahat, menampilkan status real-time melalui GUI interaktif (Tkinter),  agar pengguna tetap produktif dan fokus dalam lingkungan kerja yang sehat.
 
 [Slide Presentasi ](https://www.canva.com/design/DAG3yUKhn_I/yiX45X-ePNh0IJsWycyO4A/edit)
 </div>
