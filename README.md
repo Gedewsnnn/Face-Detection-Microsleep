@@ -1,5 +1,7 @@
 # Smart Work Monitoring System with Drowsiness Detection
-
+<div align="center">
+  <img src="./assets/cover.jpg" alt="latar" width="600px"/>
+</div>
 <div align="justify">
 
 Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem berbasis Python yang mengintegrasikan OpenCV, MediaPipe, dan Tkinter GUI untuk memantau kondisi pengguna selama bekerja. Sistem ini mampu mendeteksi wajah, memantau tingkat kantuk, dan mengatur waktu kerja–istirahat otomatis. Fitur popup subprocess digunakan agar peringatan atau notifikasi muncul di jendela terpisah tanpa mengganggu tampilan utama. Seluruh proses berjalan real-time dan terintegrasi dengan GUI interaktif yang menampilkan status, timer, serta deteksi kamera secara langsung. [Slide Presentasi ](https://www.canva.com/design/DAG3yUKhn_I/yiX45X-ePNh0IJsWycyO4A/edit)
