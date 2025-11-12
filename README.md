@@ -77,7 +77,7 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 
 # Diagram Alur
 <div align="center">
-  <img src="./assets/diagramalur.png" alt="latar" width="600px"/>
+  <img src="./assets/Flowchart_Sistem.png" alt="latar" width="600px"/>
 </div>
 
 
