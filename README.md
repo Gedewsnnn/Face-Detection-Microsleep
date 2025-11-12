@@ -74,6 +74,7 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 - [Diagram Alur](#Diagram-Alur)
 - [Output](HASIL%20TES.md)
 - [Program](PROGRAM/)
+- [Saran](SARAN.md)
 
 # Diagram Alur
 <div align="center">
