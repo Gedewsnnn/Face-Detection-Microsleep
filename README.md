@@ -1,4 +1,4 @@
-.
+
 <div align="center">
   <img src="./assets/cover.jpg" alt="latar" width="600px"/>
 </div>
@@ -73,7 +73,9 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 - [Program](PROGRAM/)
 
 # Diagram Alur
-
+<div align="center">
+  <img src="./assets/diagramalur.png" alt="latar" width="600px"/>
+</div>
 
 
 
