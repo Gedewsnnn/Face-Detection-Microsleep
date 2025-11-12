@@ -33,15 +33,32 @@ Tujuan Pengujian ini Untuk memastikan sistem dapat mendeteksi wajah, mengenali k
 
 ## Hasil Visualisasi
 ### Kondisi Mode Kerja (KERJA)
+<div align="center">
+  <img src="./assets/work.jpeg" alt="latar" width="600px"/>
+</div>
 Kamera aktif, wajah terdeteksi, timer berjalan.
+
 ### Kondisi Mode Istirahat (BREAK)
+<div align="center">
+  <img src="./assets/breaktime.jpeg" alt="latar" width="600px"/>
+</div>
 Popup kuning muncul jika wajah tetap terdeteksi.
+
 ### Kondisi Mode Persiapan (PREPARE)
+<div align="center">
+  <img src="./assets/prepare.jpeg" alt="latar" width="600px"/>
+</div>
 Sistem menunggu pengguna kembali aktif.
+
 ### Kondisi Mode Deteksi Kantuk (DROWSINESS ALERT)
+<div align="center">
+  <img src="./assets/ngantuk.jpeg" alt="latar" width="600px"/>
+</div>
 Popup merah + suara alarm aktif.
 
+
 💡 Gambar-gambar ini menunjukkan transisi otomatis antar mode serta deteksi wajah secara real-time.
+
 
 ## Hasil dan Analisis
 
